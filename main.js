@@ -1,4 +1,3 @@
-alert("conected");
 const buttons=document.getElementsByClassName("square");
 const btns=document.getElementsByTagName("button");
 let color="";
